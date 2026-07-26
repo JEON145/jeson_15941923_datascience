@@ -1,0 +1,1002 @@
+lsoa_code,lsoa_name,population,district_name
+E01026419,Breckland 010A,1282,Breckland
+E01026420,Breckland 010B,1360,Breckland
+E01026421,Breckland 013A,1813,Breckland
+E01026423,Breckland 011B,1812,Breckland
+E01026424,Breckland 012A,2118,Breckland
+E01026425,Breckland 005A,2036,Breckland
+E01026426,Breckland 005B,2408,Breckland
+E01026427,Breckland 005C,2458,Breckland
+E01026428,Breckland 003A,2737,Breckland
+E01026429,Breckland 003B,1453,Breckland
+E01026430,Breckland 003C,2433,Breckland
+E01026431,Breckland 003D,1156,Breckland
+E01026432,Breckland 005D,1437,Breckland
+E01026433,Breckland 005E,1353,Breckland
+E01026434,Breckland 005F,1976,Breckland
+E01026435,Breckland 013B,2158,Breckland
+E01026436,Breckland 001A,2517,Breckland
+E01026437,Breckland 008A,1256,Breckland
+E01026438,Breckland 008B,1090,Breckland
+E01026439,Breckland 014A,1953,Breckland
+E01026440,Breckland 014B,1175,Breckland
+E01026441,Breckland 014C,1608,Breckland
+E01026442,Breckland 002A,2135,Breckland
+E01026443,Breckland 002B,2190,Breckland
+E01026444,Breckland 012B,2135,Breckland
+E01026445,Breckland 002C,2533,Breckland
+E01026446,Breckland 004A,2141,Breckland
+E01026447,Breckland 011C,1776,Breckland
+E01026448,Breckland 013C,2477,Breckland
+E01026449,Breckland 011D,1945,Breckland
+E01026450,Breckland 011E,1924,Breckland
+E01026451,Breckland 008C,2495,Breckland
+E01026452,Breckland 004B,1735,Breckland
+E01026453,Breckland 004C,1601,Breckland
+E01026454,Breckland 004D,1584,Breckland
+E01026456,Breckland 007B,1459,Breckland
+E01026457,Breckland 007C,1318,Breckland
+E01026458,Breckland 007D,1756,Breckland
+E01026459,Breckland 007E,1549,Breckland
+E01026461,Breckland 001C,1624,Breckland
+E01026462,Breckland 002D,2398,Breckland
+E01026464,Breckland 010D,1311,Breckland
+E01026465,Breckland 015A,1877,Breckland
+E01026466,Breckland 015B,1835,Breckland
+E01026467,Breckland 015C,2217,Breckland
+E01026468,Breckland 016A,2419,Breckland
+E01026469,Breckland 016B,1652,Breckland
+E01026470,Breckland 016C,2871,Breckland
+E01026471,Breckland 016D,1215,Breckland
+E01026472,Breckland 016E,1217,Breckland
+E01026473,Breckland 016F,1420,Breckland
+E01026474,Breckland 017A,2067,Breckland
+E01026475,Breckland 017B,1553,Breckland
+E01026476,Breckland 017C,1491,Breckland
+E01026477,Breckland 017D,1861,Breckland
+E01026478,Breckland 017E,1667,Breckland
+E01026479,Breckland 006A,1544,Breckland
+E01026480,Breckland 006B,1593,Breckland
+E01026481,Breckland 006C,1339,Breckland
+E01026483,Breckland 001E,1172,Breckland
+E01026484,Breckland 006D,1658,Breckland
+E01026485,Breckland 006E,1226,Breckland
+E01026486,Breckland 009A,2022,Breckland
+E01026487,Breckland 009B,2299,Breckland
+E01026488,Breckland 009C,1455,Breckland
+E01026489,Breckland 009D,1486,Breckland
+E01026490,Breckland 009E,1956,Breckland
+E01026491,Breckland 010E,2293,Breckland
+E01026492,Breckland 012C,1240,Breckland
+E01026493,Breckland 012D,1489,Breckland
+E01026494,Breckland 014D,2461,Breckland
+E01026495,Breckland 008D,1453,Breckland
+E01026496,Breckland 008E,1113,Breckland
+E01033040,Breckland 010F,2418,Breckland
+E01033041,Breckland 010G,1347,Breckland
+E01033042,Breckland 001F,2414,Breckland
+E01035133,Breckland 007F,1308,Breckland
+E01035134,Breckland 007G,1605,Breckland
+E01035135,Breckland 011F,1341,Breckland
+E01035136,Breckland 011G,2153,Breckland
+E01026497,Broadland 018A,1478,Broadland
+E01026498,Broadland 018B,1362,Broadland
+E01026499,Broadland 001A,1521,Broadland
+E01026500,Broadland 001B,1624,Broadland
+E01026501,Broadland 001C,1653,Broadland
+E01026502,Broadland 001D,2094,Broadland
+E01026503,Broadland 001E,2132,Broadland
+E01026504,Broadland 014A,1531,Broadland
+E01026505,Broadland 014B,2126,Broadland
+E01026506,Broadland 014C,1442,Broadland
+E01026507,Broadland 014D,1514,Broadland
+E01026508,Broadland 017A,1409,Broadland
+E01026509,Broadland 017B,1979,Broadland
+E01026510,Broadland 017C,1732,Broadland
+E01026511,Broadland 017D,1167,Broadland
+E01026512,Broadland 014E,1265,Broadland
+E01026513,Broadland 014F,1430,Broadland
+E01026514,Broadland 003A,1529,Broadland
+E01026515,Broadland 003B,1176,Broadland
+E01026516,Broadland 003C,1227,Broadland
+E01026517,Broadland 003D,1661,Broadland
+E01026518,Broadland 007A,1279,Broadland
+E01026519,Broadland 007B,1645,Broadland
+E01026520,Broadland 007C,1085,Broadland
+E01026521,Broadland 007D,1367,Broadland
+E01026522,Broadland 002A,1426,Broadland
+E01026523,Broadland 002B,1850,Broadland
+E01026524,Broadland 002C,1476,Broadland
+E01026525,Broadland 002D,1281,Broadland
+E01026526,Broadland 010A,1379,Broadland
+E01026527,Broadland 010B,1386,Broadland
+E01026528,Broadland 010C,1345,Broadland
+E01026529,Broadland 010D,1647,Broadland
+E01026530,Broadland 011A,1885,Broadland
+E01026531,Broadland 011B,1967,Broadland
+E01026532,Broadland 011C,1745,Broadland
+E01026533,Broadland 004A,1251,Broadland
+E01026534,Broadland 004B,1707,Broadland
+E01026535,Broadland 004C,2423,Broadland
+E01026536,Broadland 004D,2035,Broadland
+E01026537,Broadland 004E,1499,Broadland
+E01026538,Broadland 018C,1678,Broadland
+E01026539,Broadland 018D,1610,Broadland
+E01026540,Broadland 009A,1381,Broadland
+E01026541,Broadland 009B,2592,Broadland
+E01026542,Broadland 009C,1426,Broadland
+E01026543,Broadland 009D,1463,Broadland
+E01026544,Broadland 009E,1894,Broadland
+E01026545,Broadland 008A,2248,Broadland
+E01026546,Broadland 008B,1430,Broadland
+E01026547,Broadland 002E,1350,Broadland
+E01026548,Broadland 002F,1265,Broadland
+E01026549,Broadland 005A,1809,Broadland
+E01026550,Broadland 005B,1071,Broadland
+E01026551,Broadland 005C,1154,Broadland
+E01026552,Broadland 005D,1353,Broadland
+E01026553,Broadland 012A,1225,Broadland
+E01026554,Broadland 012B,1177,Broadland
+E01026555,Broadland 012C,1509,Broadland
+E01026556,Broadland 012D,1391,Broadland
+E01026557,Broadland 013A,1317,Broadland
+E01026558,Broadland 013B,2580,Broadland
+E01026559,Broadland 013C,1459,Broadland
+E01026560,Broadland 013D,1318,Broadland
+E01026562,Broadland 006A,1221,Broadland
+E01026563,Broadland 006B,1405,Broadland
+E01026564,Broadland 006C,1621,Broadland
+E01026565,Broadland 006D,1137,Broadland
+E01026566,Broadland 006E,1531,Broadland
+E01026567,Broadland 006F,1591,Broadland
+E01026568,Broadland 006G,1530,Broadland
+E01026569,Broadland 015A,1473,Broadland
+E01026570,Broadland 015B,1644,Broadland
+E01026571,Broadland 015C,1473,Broadland
+E01026572,Broadland 015D,1355,Broadland
+E01026573,Broadland 015E,1395,Broadland
+E01026574,Broadland 016A,1692,Broadland
+E01026575,Broadland 016B,1799,Broadland
+E01026576,Broadland 016C,1980,Broadland
+E01026577,Broadland 016D,1688,Broadland
+E01026578,Broadland 008C,2253,Broadland
+E01026579,Broadland 008D,1551,Broadland
+E01026580,Broadland 008E,1808,Broadland
+E01034765,Broadland 013F,1722,Broadland
+E01034766,Broadland 013G,1540,Broadland
+E01026581,Great Yarmouth 008A,1655,Great Yarmouth
+E01026582,Great Yarmouth 008B,2013,Great Yarmouth
+E01026583,Great Yarmouth 008C,1277,Great Yarmouth
+E01026584,Great Yarmouth 008D,1470,Great Yarmouth
+E01026587,Great Yarmouth 013C,3219,Great Yarmouth
+E01026588,Great Yarmouth 013D,2618,Great Yarmouth
+E01026589,Great Yarmouth 003A,1270,Great Yarmouth
+E01026590,Great Yarmouth 003B,1356,Great Yarmouth
+E01026591,Great Yarmouth 003C,1695,Great Yarmouth
+E01026592,Great Yarmouth 003D,1294,Great Yarmouth
+E01026593,Great Yarmouth 003E,1302,Great Yarmouth
+E01026594,Great Yarmouth 003F,1811,Great Yarmouth
+E01026595,Great Yarmouth 005A,1758,Great Yarmouth
+E01026596,Great Yarmouth 005B,1573,Great Yarmouth
+E01026597,Great Yarmouth 005C,1942,Great Yarmouth
+E01026598,Great Yarmouth 005D,1841,Great Yarmouth
+E01026599,Great Yarmouth 004A,1390,Great Yarmouth
+E01026600,Great Yarmouth 007A,1451,Great Yarmouth
+E01026601,Great Yarmouth 009A,1430,Great Yarmouth
+E01026602,Great Yarmouth 009B,1661,Great Yarmouth
+E01026603,Great Yarmouth 009C,1618,Great Yarmouth
+E01026604,Great Yarmouth 009D,1522,Great Yarmouth
+E01026605,Great Yarmouth 001A,1790,Great Yarmouth
+E01026606,Great Yarmouth 001B,1381,Great Yarmouth
+E01026607,Great Yarmouth 001C,1769,Great Yarmouth
+E01026608,Great Yarmouth 002A,1498,Great Yarmouth
+E01026609,Great Yarmouth 002B,1251,Great Yarmouth
+E01026610,Great Yarmouth 010A,1492,Great Yarmouth
+E01026611,Great Yarmouth 010B,1333,Great Yarmouth
+E01026612,Great Yarmouth 010C,2462,Great Yarmouth
+E01026613,Great Yarmouth 012A,1269,Great Yarmouth
+E01026614,Great Yarmouth 012B,1742,Great Yarmouth
+E01026615,Great Yarmouth 012C,1344,Great Yarmouth
+E01026616,Great Yarmouth 012D,1186,Great Yarmouth
+E01026617,Great Yarmouth 011A,1280,Great Yarmouth
+E01026618,Great Yarmouth 011B,1529,Great Yarmouth
+E01026619,Great Yarmouth 011C,1481,Great Yarmouth
+E01026620,Great Yarmouth 011D,1621,Great Yarmouth
+E01026621,Great Yarmouth 011E,1570,Great Yarmouth
+E01026622,Great Yarmouth 006A,1648,Great Yarmouth
+E01026623,Great Yarmouth 006B,1816,Great Yarmouth
+E01026624,Great Yarmouth 006C,1941,Great Yarmouth
+E01026625,Great Yarmouth 006D,1834,Great Yarmouth
+E01026626,Great Yarmouth 006E,2123,Great Yarmouth
+E01026627,Great Yarmouth 001D,1363,Great Yarmouth
+E01026628,Great Yarmouth 001E,1892,Great Yarmouth
+E01026629,Great Yarmouth 001F,1449,Great Yarmouth
+E01026630,Great Yarmouth 010D,1560,Great Yarmouth
+E01026631,Great Yarmouth 010E,1597,Great Yarmouth
+E01026632,Great Yarmouth 009E,1653,Great Yarmouth
+E01026633,Great Yarmouth 007B,1811,Great Yarmouth
+E01026634,Great Yarmouth 007C,1505,Great Yarmouth
+E01026635,Great Yarmouth 007D,2425,Great Yarmouth
+E01026636,Great Yarmouth 002C,1558,Great Yarmouth
+E01026637,Great Yarmouth 002D,2188,Great Yarmouth
+E01026638,Great Yarmouth 002E,1684,Great Yarmouth
+E01026639,Great Yarmouth 004B,1517,Great Yarmouth
+E01026640,Great Yarmouth 004C,1467,Great Yarmouth
+E01026641,Great Yarmouth 004D,1430,Great Yarmouth
+E01034767,Great Yarmouth 013E,2173,Great Yarmouth
+E01026642,King's Lynn and West Norfolk 014A,1322,King's Lynn and West Norfolk
+E01026643,King's Lynn and West Norfolk 014B,1324,King's Lynn and West Norfolk
+E01026644,King's Lynn and West Norfolk 014C,2647,King's Lynn and West Norfolk
+E01026645,King's Lynn and West Norfolk 002A,1171,King's Lynn and West Norfolk
+E01026646,King's Lynn and West Norfolk 002B,1453,King's Lynn and West Norfolk
+E01026647,King's Lynn and West Norfolk 008A,2249,King's Lynn and West Norfolk
+E01026648,King's Lynn and West Norfolk 019A,1662,King's Lynn and West Norfolk
+E01026649,King's Lynn and West Norfolk 019B,1849,King's Lynn and West Norfolk
+E01026650,King's Lynn and West Norfolk 019C,1320,King's Lynn and West Norfolk
+E01026651,King's Lynn and West Norfolk 019D,2647,King's Lynn and West Norfolk
+E01026652,King's Lynn and West Norfolk 019E,1477,King's Lynn and West Norfolk
+E01026653,King's Lynn and West Norfolk 004A,1837,King's Lynn and West Norfolk
+E01026654,King's Lynn and West Norfolk 004B,1517,King's Lynn and West Norfolk
+E01026655,King's Lynn and West Norfolk 004C,1432,King's Lynn and West Norfolk
+E01026656,King's Lynn and West Norfolk 002C,1814,King's Lynn and West Norfolk
+E01026659,King's Lynn and West Norfolk 016A,1714,King's Lynn and West Norfolk
+E01026660,King's Lynn and West Norfolk 016B,1858,King's Lynn and West Norfolk
+E01026661,King's Lynn and West Norfolk 016C,1697,King's Lynn and West Norfolk
+E01026662,King's Lynn and West Norfolk 010A,2933,King's Lynn and West Norfolk
+E01026663,King's Lynn and West Norfolk 010B,1739,King's Lynn and West Norfolk
+E01026664,King's Lynn and West Norfolk 010C,2186,King's Lynn and West Norfolk
+E01026665,King's Lynn and West Norfolk 012A,2502,King's Lynn and West Norfolk
+E01026666,King's Lynn and West Norfolk 009A,2031,King's Lynn and West Norfolk
+E01026667,King's Lynn and West Norfolk 009B,1480,King's Lynn and West Norfolk
+E01026668,King's Lynn and West Norfolk 009C,1627,King's Lynn and West Norfolk
+E01026669,King's Lynn and West Norfolk 006A,1904,King's Lynn and West Norfolk
+E01026670,King's Lynn and West Norfolk 006B,1621,King's Lynn and West Norfolk
+E01026671,King's Lynn and West Norfolk 006C,1351,King's Lynn and West Norfolk
+E01026672,King's Lynn and West Norfolk 006D,1411,King's Lynn and West Norfolk
+E01026673,King's Lynn and West Norfolk 006E,1402,King's Lynn and West Norfolk
+E01026674,King's Lynn and West Norfolk 012B,1147,King's Lynn and West Norfolk
+E01026675,King's Lynn and West Norfolk 012C,1259,King's Lynn and West Norfolk
+E01026676,King's Lynn and West Norfolk 003A,1602,King's Lynn and West Norfolk
+E01026677,King's Lynn and West Norfolk 003B,1473,King's Lynn and West Norfolk
+E01026678,King's Lynn and West Norfolk 003C,1481,King's Lynn and West Norfolk
+E01026679,King's Lynn and West Norfolk 018A,2479,King's Lynn and West Norfolk
+E01026680,King's Lynn and West Norfolk 001A,1639,King's Lynn and West Norfolk
+E01026681,King's Lynn and West Norfolk 001B,1191,King's Lynn and West Norfolk
+E01026682,King's Lynn and West Norfolk 001C,1121,King's Lynn and West Norfolk
+E01026683,King's Lynn and West Norfolk 001D,1208,King's Lynn and West Norfolk
+E01026684,King's Lynn and West Norfolk 013A,1455,King's Lynn and West Norfolk
+E01026685,King's Lynn and West Norfolk 013B,1295,King's Lynn and West Norfolk
+E01026687,King's Lynn and West Norfolk 007A,2053,King's Lynn and West Norfolk
+E01026688,King's Lynn and West Norfolk 007B,1699,King's Lynn and West Norfolk
+E01026689,King's Lynn and West Norfolk 007C,1550,King's Lynn and West Norfolk
+E01026690,King's Lynn and West Norfolk 007D,1697,King's Lynn and West Norfolk
+E01026691,King's Lynn and West Norfolk 005A,1184,King's Lynn and West Norfolk
+E01026692,King's Lynn and West Norfolk 005B,1163,King's Lynn and West Norfolk
+E01026693,King's Lynn and West Norfolk 009D,2275,King's Lynn and West Norfolk
+E01026694,King's Lynn and West Norfolk 012D,2636,King's Lynn and West Norfolk
+E01026695,King's Lynn and West Norfolk 002D,2130,King's Lynn and West Norfolk
+E01026696,King's Lynn and West Norfolk 015A,1254,King's Lynn and West Norfolk
+E01026697,King's Lynn and West Norfolk 015B,1354,King's Lynn and West Norfolk
+E01026699,King's Lynn and West Norfolk 011B,1670,King's Lynn and West Norfolk
+E01026700,King's Lynn and West Norfolk 011C,1318,King's Lynn and West Norfolk
+E01026701,King's Lynn and West Norfolk 003D,1676,King's Lynn and West Norfolk
+E01026702,King's Lynn and West Norfolk 003E,1262,King's Lynn and West Norfolk
+E01026703,King's Lynn and West Norfolk 003F,1076,King's Lynn and West Norfolk
+E01026704,King's Lynn and West Norfolk 011D,1841,King's Lynn and West Norfolk
+E01026705,King's Lynn and West Norfolk 011E,1786,King's Lynn and West Norfolk
+E01026706,King's Lynn and West Norfolk 011F,2009,King's Lynn and West Norfolk
+E01026708,King's Lynn and West Norfolk 005C,1394,King's Lynn and West Norfolk
+E01026709,King's Lynn and West Norfolk 005D,1919,King's Lynn and West Norfolk
+E01026710,King's Lynn and West Norfolk 005E,1168,King's Lynn and West Norfolk
+E01026711,King's Lynn and West Norfolk 008B,1518,King's Lynn and West Norfolk
+E01026712,King's Lynn and West Norfolk 008C,1904,King's Lynn and West Norfolk
+E01026713,King's Lynn and West Norfolk 008D,1753,King's Lynn and West Norfolk
+E01026714,King's Lynn and West Norfolk 010D,2289,King's Lynn and West Norfolk
+E01026715,King's Lynn and West Norfolk 016D,1565,King's Lynn and West Norfolk
+E01026716,King's Lynn and West Norfolk 016E,2011,King's Lynn and West Norfolk
+E01026717,King's Lynn and West Norfolk 016F,1709,King's Lynn and West Norfolk
+E01026718,King's Lynn and West Norfolk 004D,2317,King's Lynn and West Norfolk
+E01026719,King's Lynn and West Norfolk 013C,2596,King's Lynn and West Norfolk
+E01026720,King's Lynn and West Norfolk 013D,1419,King's Lynn and West Norfolk
+E01026721,King's Lynn and West Norfolk 013E,1500,King's Lynn and West Norfolk
+E01026722,King's Lynn and West Norfolk 015C,2635,King's Lynn and West Norfolk
+E01026723,King's Lynn and West Norfolk 014D,1635,King's Lynn and West Norfolk
+E01026724,King's Lynn and West Norfolk 014E,1799,King's Lynn and West Norfolk
+E01026725,King's Lynn and West Norfolk 014F,1456,King's Lynn and West Norfolk
+E01026726,King's Lynn and West Norfolk 015D,2170,King's Lynn and West Norfolk
+E01026727,King's Lynn and West Norfolk 018B,2633,King's Lynn and West Norfolk
+E01026728,King's Lynn and West Norfolk 018C,2591,King's Lynn and West Norfolk
+E01033036,King's Lynn and West Norfolk 017E,1643,King's Lynn and West Norfolk
+E01033037,King's Lynn and West Norfolk 017F,1616,King's Lynn and West Norfolk
+E01033038,King's Lynn and West Norfolk 017G,2150,King's Lynn and West Norfolk
+E01033039,King's Lynn and West Norfolk 017H,1079,King's Lynn and West Norfolk
+E01034768,King's Lynn and West Norfolk 011G,1155,King's Lynn and West Norfolk
+E01034769,King's Lynn and West Norfolk 011H,1035,King's Lynn and West Norfolk
+E01034770,King's Lynn and West Norfolk 017I,1174,King's Lynn and West Norfolk
+E01034771,King's Lynn and West Norfolk 017J,1337,King's Lynn and West Norfolk
+E01034772,King's Lynn and West Norfolk 017K,1118,King's Lynn and West Norfolk
+E01034773,King's Lynn and West Norfolk 017L,1217,King's Lynn and West Norfolk
+E01026729,North Norfolk 008A,2189,North Norfolk
+E01026730,North Norfolk 008B,2654,North Norfolk
+E01026733,North Norfolk 006C,2392,North Norfolk
+E01026734,North Norfolk 003A,995,North Norfolk
+E01026735,North Norfolk 003B,1141,North Norfolk
+E01026736,North Norfolk 003C,1316,North Norfolk
+E01026737,North Norfolk 006D,2383,North Norfolk
+E01026738,North Norfolk 007A,2395,North Norfolk
+E01026739,North Norfolk 002A,1924,North Norfolk
+E01026740,North Norfolk 012A,2415,North Norfolk
+E01026741,North Norfolk 004A,1676,North Norfolk
+E01026742,North Norfolk 004B,1957,North Norfolk
+E01026743,North Norfolk 004C,2151,North Norfolk
+E01026744,North Norfolk 014A,2284,North Norfolk
+E01026745,North Norfolk 011A,1911,North Norfolk
+E01026746,North Norfolk 011B,1743,North Norfolk
+E01026747,North Norfolk 011C,1377,North Norfolk
+E01026748,North Norfolk 011D,1468,North Norfolk
+E01026749,North Norfolk 011E,1617,North Norfolk
+E01026750,North Norfolk 007B,1325,North Norfolk
+E01026751,North Norfolk 007C,1461,North Norfolk
+E01026752,North Norfolk 007D,1530,North Norfolk
+E01026753,North Norfolk 015D,1507,North Norfolk
+E01026754,North Norfolk 015C,1319,North Norfolk
+E01026755,North Norfolk 015E,1138,North Norfolk
+E01026756,North Norfolk 015B,1263,North Norfolk
+E01026757,North Norfolk 015A,1480,North Norfolk
+E01026758,North Norfolk 016B,1300,North Norfolk
+E01026759,North Norfolk 016C,1388,North Norfolk
+E01026760,North Norfolk 016D,2023,North Norfolk
+E01026761,North Norfolk 016A,1577,North Norfolk
+E01026763,North Norfolk 002B,1338,North Norfolk
+E01026764,North Norfolk 002C,1244,North Norfolk
+E01026765,North Norfolk 002D,1349,North Norfolk
+E01026766,North Norfolk 005B,2371,North Norfolk
+E01026767,North Norfolk 012B,1284,North Norfolk
+E01026768,North Norfolk 012C,1889,North Norfolk
+E01026769,North Norfolk 014B,2011,North Norfolk
+E01026770,North Norfolk 001A,1694,North Norfolk
+E01026771,North Norfolk 001B,1469,North Norfolk
+E01026772,North Norfolk 001C,1761,North Norfolk
+E01026773,North Norfolk 001D,2029,North Norfolk
+E01026774,North Norfolk 013A,1707,North Norfolk
+E01026775,North Norfolk 013B,1269,North Norfolk
+E01026776,North Norfolk 013C,1833,North Norfolk
+E01026777,North Norfolk 003D,1282,North Norfolk
+E01026778,North Norfolk 003E,1345,North Norfolk
+E01026779,North Norfolk 003F,1374,North Norfolk
+E01026780,North Norfolk 009A,2777,North Norfolk
+E01026781,North Norfolk 005C,1996,North Norfolk
+E01026782,North Norfolk 009B,2195,North Norfolk
+E01026783,North Norfolk 014C,1821,North Norfolk
+E01026784,North Norfolk 014D,1086,North Norfolk
+E01026785,North Norfolk 014E,1347,North Norfolk
+E01026786,North Norfolk 013D,1929,North Norfolk
+E01026787,North Norfolk 009C,1070,North Norfolk
+E01026788,North Norfolk 008C,1217,North Norfolk
+E01026789,North Norfolk 012D,1194,North Norfolk
+E01026790,North Norfolk 012E,1235,North Norfolk
+E01034774,North Norfolk 005D,1131,North Norfolk
+E01034775,North Norfolk 005E,1349,North Norfolk
+E01034776,North Norfolk 006E,2283,North Norfolk
+E01026791,Norwich 005A,1552,Norwich
+E01026792,Norwich 005B,1378,Norwich
+E01026793,Norwich 005C,1936,Norwich
+E01026794,Norwich 005D,2048,Norwich
+E01026796,Norwich 005F,2109,Norwich
+E01026797,Norwich 001A,2623,Norwich
+E01026798,Norwich 001B,1476,Norwich
+E01026799,Norwich 001C,1507,Norwich
+E01026800,Norwich 001D,2103,Norwich
+E01026801,Norwich 001E,1560,Norwich
+E01026802,Norwich 001F,1654,Norwich
+E01026803,Norwich 004A,1531,Norwich
+E01026804,Norwich 004B,1550,Norwich
+E01026805,Norwich 004C,1536,Norwich
+E01026806,Norwich 004D,1515,Norwich
+E01026807,Norwich 004E,1297,Norwich
+E01026808,Norwich 004F,1270,Norwich
+E01026809,Norwich 004G,1539,Norwich
+E01026810,Norwich 012A,1655,Norwich
+E01026811,Norwich 012B,1602,Norwich
+E01026812,Norwich 012C,1623,Norwich
+E01026813,Norwich 012D,1448,Norwich
+E01026814,Norwich 012E,1660,Norwich
+E01026815,Norwich 012F,1497,Norwich
+E01026816,Norwich 013A,1828,Norwich
+E01026817,Norwich 013B,1530,Norwich
+E01026818,Norwich 013C,1592,Norwich
+E01026819,Norwich 013D,1513,Norwich
+E01026820,Norwich 013E,1912,Norwich
+E01026821,Norwich 013F,1692,Norwich
+E01026823,Norwich 017A,2138,Norwich
+E01026824,Norwich 016D,1825,Norwich
+E01026825,Norwich 016A,1507,Norwich
+E01026826,Norwich 016B,1684,Norwich
+E01026827,Norwich 016C,1606,Norwich
+E01026828,Norwich 002A,1696,Norwich
+E01026829,Norwich 002B,2244,Norwich
+E01026830,Norwich 002C,1349,Norwich
+E01026831,Norwich 002D,1279,Norwich
+E01026832,Norwich 002E,1491,Norwich
+E01026833,Norwich 002F,1560,Norwich
+E01026834,Norwich 002G,1553,Norwich
+E01026835,Norwich 009A,1485,Norwich
+E01026836,Norwich 009B,1519,Norwich
+E01026837,Norwich 009C,1424,Norwich
+E01026838,Norwich 009D,1555,Norwich
+E01026839,Norwich 009E,1576,Norwich
+E01026840,Norwich 009F,1627,Norwich
+E01026841,Norwich 003A,1420,Norwich
+E01026842,Norwich 003B,1754,Norwich
+E01026843,Norwich 003C,1900,Norwich
+E01026844,Norwich 003D,1816,Norwich
+E01026845,Norwich 003E,1561,Norwich
+E01026846,Norwich 003F,1788,Norwich
+E01026848,Norwich 015A,1963,Norwich
+E01026849,Norwich 015B,1759,Norwich
+E01026850,Norwich 015C,2003,Norwich
+E01026852,Norwich 011A,1314,Norwich
+E01026853,Norwich 011B,1961,Norwich
+E01026855,Norwich 011D,1680,Norwich
+E01026856,Norwich 011E,1813,Norwich
+E01026857,Norwich 011F,1549,Norwich
+E01026858,Norwich 010A,1654,Norwich
+E01026859,Norwich 010B,1607,Norwich
+E01026860,Norwich 010C,4706,Norwich
+E01026861,Norwich 010D,1724,Norwich
+E01026862,Norwich 010E,1418,Norwich
+E01026863,Norwich 006A,1967,Norwich
+E01026864,Norwich 006B,1527,Norwich
+E01026865,Norwich 006C,2110,Norwich
+E01026866,Norwich 006D,1631,Norwich
+E01026867,Norwich 006E,1709,Norwich
+E01026868,Norwich 006F,1783,Norwich
+E01026869,Norwich 006G,1499,Norwich
+E01033434,Norwich 011G,1180,Norwich
+E01033435,Norwich 005G,2068,Norwich
+E01033436,Norwich 005H,2174,Norwich
+E01033437,Norwich 011H,1478,Norwich
+E01033438,Norwich 014A,1899,Norwich
+E01033440,Norwich 014C,1673,Norwich
+E01033441,Norwich 014D,1371,Norwich
+E01035137,Norwich 014E,1025,Norwich
+E01035138,Norwich 014F,1370,Norwich
+E01035139,Norwich 017B,3145,Norwich
+E01035140,Norwich 017C,1103,Norwich
+E01026870,South Norfolk 005A,1543,South Norfolk
+E01026871,South Norfolk 005B,1252,South Norfolk
+E01026872,South Norfolk 013A,2341,South Norfolk
+E01026873,South Norfolk 014A,1293,South Norfolk
+E01026874,South Norfolk 014B,1566,South Norfolk
+E01026875,South Norfolk 006A,1094,South Norfolk
+E01026876,South Norfolk 006B,1576,South Norfolk
+E01026877,South Norfolk 011A,1603,South Norfolk
+E01026878,South Norfolk 011B,1263,South Norfolk
+E01026879,South Norfolk 008A,1303,South Norfolk
+E01026880,South Norfolk 008B,1427,South Norfolk
+E01026881,South Norfolk 002A,1963,South Norfolk
+E01026883,South Norfolk 002C,2433,South Norfolk
+E01026884,South Norfolk 007A,2823,South Norfolk
+E01026885,South Norfolk 007B,1635,South Norfolk
+E01026886,South Norfolk 014C,1334,South Norfolk
+E01026887,South Norfolk 014D,1632,South Norfolk
+E01026888,South Norfolk 015A,1677,South Norfolk
+E01026889,South Norfolk 015B,1501,South Norfolk
+E01026891,South Norfolk 015D,1768,South Norfolk
+E01026892,South Norfolk 012A,1292,South Norfolk
+E01026893,South Norfolk 012B,1293,South Norfolk
+E01026894,South Norfolk 012C,2598,South Norfolk
+E01026895,South Norfolk 002D,1357,South Norfolk
+E01026896,South Norfolk 002E,1147,South Norfolk
+E01026897,South Norfolk 011C,2861,South Norfolk
+E01026898,South Norfolk 010A,1542,South Norfolk
+E01026899,South Norfolk 010B,1583,South Norfolk
+E01026900,South Norfolk 013B,1492,South Norfolk
+E01026901,South Norfolk 013C,1342,South Norfolk
+E01026902,South Norfolk 013D,2476,South Norfolk
+E01026903,South Norfolk 012D,1186,South Norfolk
+E01026904,South Norfolk 012E,1396,South Norfolk
+E01026905,South Norfolk 003A,1028,South Norfolk
+E01026906,South Norfolk 003B,1790,South Norfolk
+E01026907,South Norfolk 003C,1955,South Norfolk
+E01026908,South Norfolk 003D,2806,South Norfolk
+E01026909,South Norfolk 004A,1512,South Norfolk
+E01026910,South Norfolk 004B,1639,South Norfolk
+E01026911,South Norfolk 008C,1547,South Norfolk
+E01026912,South Norfolk 008D,1731,South Norfolk
+E01026913,South Norfolk 009A,1690,South Norfolk
+E01026914,South Norfolk 009B,1920,South Norfolk
+E01026915,South Norfolk 009C,2025,South Norfolk
+E01026916,South Norfolk 017A,2103,South Norfolk
+E01026917,South Norfolk 017C,1386,South Norfolk
+E01026918,South Norfolk 017B,1686,South Norfolk
+E01026919,South Norfolk 009D,1511,South Norfolk
+E01026920,South Norfolk 009E,1251,South Norfolk
+E01026921,South Norfolk 005C,1311,South Norfolk
+E01026922,South Norfolk 005D,1420,South Norfolk
+E01026924,South Norfolk 016D,1639,South Norfolk
+E01026925,South Norfolk 017D,2517,South Norfolk
+E01026927,South Norfolk 006D,1758,South Norfolk
+E01026928,South Norfolk 006E,1987,South Norfolk
+E01026929,South Norfolk 008E,1391,South Norfolk
+E01026930,South Norfolk 008F,1527,South Norfolk
+E01026931,South Norfolk 015E,1040,South Norfolk
+E01026932,South Norfolk 015F,1336,South Norfolk
+E01026934,South Norfolk 014E,1031,South Norfolk
+E01026935,South Norfolk 014F,1375,South Norfolk
+E01026936,South Norfolk 006F,1790,South Norfolk
+E01026937,South Norfolk 006G,1621,South Norfolk
+E01026938,South Norfolk 011D,2133,South Norfolk
+E01026939,South Norfolk 011E,1781,South Norfolk
+E01026940,South Norfolk 011F,2142,South Norfolk
+E01026941,South Norfolk 009F,1234,South Norfolk
+E01026942,South Norfolk 009G,1122,South Norfolk
+E01026943,South Norfolk 010C,1516,South Norfolk
+E01026944,South Norfolk 010D,1255,South Norfolk
+E01026947,South Norfolk 004C,1407,South Norfolk
+E01026948,South Norfolk 004D,1812,South Norfolk
+E01033539,South Norfolk 015G,2211,South Norfolk
+E01033540,South Norfolk 016E,1500,South Norfolk
+E01033541,South Norfolk 015H,1464,South Norfolk
+E01035141,South Norfolk 002F,2001,South Norfolk
+E01035142,South Norfolk 002G,1484,South Norfolk
+E01035143,South Norfolk 006H,1386,South Norfolk
+E01035144,South Norfolk 006I,1754,South Norfolk
+E01035145,South Norfolk 007F,1742,South Norfolk
+E01035146,South Norfolk 007G,1490,South Norfolk
+E01035147,South Norfolk 007H,1032,South Norfolk
+E01035148,South Norfolk 007I,1425,South Norfolk
+E01035149,South Norfolk 007J,3228,South Norfolk
+E01035150,South Norfolk 016A,1122,South Norfolk
+E01035151,South Norfolk 016B,1475,South Norfolk
+E01035152,South Norfolk 016C,1459,South Norfolk
+E01035153,South Norfolk 016F,1551,South Norfolk
+E01029870,Babergh 010A,1181,Babergh
+E01029871,Babergh 011A,1436,Babergh
+E01029872,Babergh 010B,1509,Babergh
+E01029873,Babergh 011B,2198,Babergh
+E01029874,Babergh 011C,1706,Babergh
+E01029875,Babergh 009A,2394,Babergh
+E01029876,Babergh 001A,2181,Babergh
+E01029877,Babergh 005A,1548,Babergh
+E01029878,Babergh 005B,1295,Babergh
+E01029879,Babergh 005C,1845,Babergh
+E01029880,Babergh 006A,1879,Babergh
+E01029881,Babergh 002A,2096,Babergh
+E01029882,Babergh 010C,1517,Babergh
+E01029883,Babergh 010D,2013,Babergh
+E01029884,Babergh 002B,1726,Babergh
+E01029885,Babergh 002C,2368,Babergh
+E01029886,Babergh 008A,1332,Babergh
+E01029887,Babergh 008B,2054,Babergh
+E01029888,Babergh 008C,1298,Babergh
+E01029889,Babergh 008D,1403,Babergh
+E01029890,Babergh 008E,1734,Babergh
+E01029891,Babergh 008F,2199,Babergh
+E01029892,Babergh 004A,2028,Babergh
+E01029894,Babergh 004C,1115,Babergh
+E01029895,Babergh 004D,1148,Babergh
+E01029896,Babergh 004E,1288,Babergh
+E01029897,Babergh 011D,2459,Babergh
+E01029898,Babergh 001B,2007,Babergh
+E01029899,Babergh 009B,1840,Babergh
+E01029900,Babergh 003A,1784,Babergh
+E01029901,Babergh 003B,2435,Babergh
+E01029902,Babergh 009C,2228,Babergh
+E01029903,Babergh 010E,1514,Babergh
+E01029904,Babergh 010F,1668,Babergh
+E01029905,Babergh 010G,1206,Babergh
+E01029906,Babergh 009D,1851,Babergh
+E01029907,Babergh 001C,2334,Babergh
+E01029908,Babergh 005D,1645,Babergh
+E01029909,Babergh 005E,1559,Babergh
+E01029910,Babergh 005F,1204,Babergh
+E01029911,Babergh 004F,2256,Babergh
+E01029912,Babergh 007A,1890,Babergh
+E01029913,Babergh 007B,1102,Babergh
+E01029914,Babergh 007C,1586,Babergh
+E01029915,Babergh 007D,1201,Babergh
+E01029916,Babergh 007E,1354,Babergh
+E01029917,Babergh 003C,2089,Babergh
+E01029918,Babergh 007F,1145,Babergh
+E01029919,Babergh 007G,1597,Babergh
+E01029920,Babergh 007H,1903,Babergh
+E01029921,Babergh 006B,1381,Babergh
+E01029922,Babergh 006C,1612,Babergh
+E01029923,Babergh 006D,1559,Babergh
+E01034559,Babergh 004G,1930,Babergh
+E01034560,Babergh 004H,1459,Babergh
+E01029958,Ipswich 007A,1387,Ipswich
+E01029960,Ipswich 007C,2000,Ipswich
+E01029961,Ipswich 007D,1501,Ipswich
+E01029962,Ipswich 007E,1655,Ipswich
+E01029963,Ipswich 009A,1644,Ipswich
+E01029964,Ipswich 009B,1368,Ipswich
+E01029965,Ipswich 009C,1507,Ipswich
+E01029966,Ipswich 009D,1604,Ipswich
+E01029967,Ipswich 009E,1397,Ipswich
+E01029968,Ipswich 012A,1577,Ipswich
+E01029969,Ipswich 012B,1526,Ipswich
+E01029970,Ipswich 012C,1679,Ipswich
+E01029971,Ipswich 012D,1532,Ipswich
+E01029973,Ipswich 002A,1467,Ipswich
+E01029974,Ipswich 002B,1550,Ipswich
+E01029975,Ipswich 002C,1337,Ipswich
+E01029976,Ipswich 002D,1557,Ipswich
+E01029977,Ipswich 002E,1538,Ipswich
+E01029978,Ipswich 016A,1308,Ipswich
+E01029979,Ipswich 016B,1601,Ipswich
+E01029980,Ipswich 016C,1583,Ipswich
+E01029981,Ipswich 016D,1229,Ipswich
+E01029982,Ipswich 016E,1458,Ipswich
+E01029983,Ipswich 016F,1599,Ipswich
+E01029984,Ipswich 010A,1621,Ipswich
+E01029985,Ipswich 010B,2613,Ipswich
+E01029986,Ipswich 010C,1550,Ipswich
+E01029987,Ipswich 010D,1538,Ipswich
+E01029988,Ipswich 010E,2155,Ipswich
+E01029990,Ipswich 011B,1488,Ipswich
+E01029991,Ipswich 011C,1613,Ipswich
+E01029992,Ipswich 011D,1323,Ipswich
+E01029994,Ipswich 014B,1619,Ipswich
+E01029995,Ipswich 014C,1656,Ipswich
+E01029996,Ipswich 014D,1653,Ipswich
+E01029997,Ipswich 004A,1581,Ipswich
+E01029998,Ipswich 004B,1846,Ipswich
+E01029999,Ipswich 004C,1585,Ipswich
+E01030000,Ipswich 004D,1609,Ipswich
+E01030001,Ipswich 004E,1813,Ipswich
+E01030002,Ipswich 008A,2037,Ipswich
+E01030003,Ipswich 008B,1741,Ipswich
+E01030004,Ipswich 008C,1279,Ipswich
+E01030005,Ipswich 008D,2971,Ipswich
+E01030006,Ipswich 008E,1775,Ipswich
+E01030007,Ipswich 005A,2059,Ipswich
+E01030008,Ipswich 005B,1323,Ipswich
+E01030009,Ipswich 005C,1441,Ipswich
+E01030010,Ipswich 005D,1989,Ipswich
+E01030011,Ipswich 005E,1536,Ipswich
+E01030012,Ipswich 013A,1183,Ipswich
+E01030013,Ipswich 013B,1517,Ipswich
+E01030014,Ipswich 013C,1479,Ipswich
+E01030015,Ipswich 013D,1213,Ipswich
+E01030016,Ipswich 013E,1321,Ipswich
+E01030017,Ipswich 015A,1417,Ipswich
+E01030018,Ipswich 015B,1528,Ipswich
+E01030019,Ipswich 015C,1474,Ipswich
+E01030020,Ipswich 015D,1360,Ipswich
+E01030021,Ipswich 015E,1375,Ipswich
+E01030022,Ipswich 006A,2113,Ipswich
+E01030023,Ipswich 006B,1981,Ipswich
+E01030024,Ipswich 006C,2037,Ipswich
+E01030025,Ipswich 006D,1890,Ipswich
+E01030026,Ipswich 006E,1971,Ipswich
+E01030027,Ipswich 003A,2078,Ipswich
+E01030028,Ipswich 003B,1732,Ipswich
+E01030029,Ipswich 003C,1655,Ipswich
+E01030030,Ipswich 003D,2185,Ipswich
+E01030031,Ipswich 003E,1512,Ipswich
+E01030032,Ipswich 001A,1510,Ipswich
+E01030033,Ipswich 001B,1495,Ipswich
+E01030034,Ipswich 001C,1406,Ipswich
+E01030035,Ipswich 001D,1945,Ipswich
+E01030036,Ipswich 001E,1967,Ipswich
+E01033122,Ipswich 012F,2317,Ipswich
+E01033123,Ipswich 011E,1754,Ipswich
+E01033124,Ipswich 007F,1050,Ipswich
+E01033125,Ipswich 007G,1429,Ipswich
+E01033126,Ipswich 011F,1916,Ipswich
+E01033127,Ipswich 014E,1685,Ipswich
+E01033128,Ipswich 014F,1170,Ipswich
+E01033129,Ipswich 007H,1723,Ipswich
+E01033130,Ipswich 012G,1142,Ipswich
+E01033131,Ipswich 014G,1783,Ipswich
+E01030037,Mid Suffolk 005A,1210,Mid Suffolk
+E01030038,Mid Suffolk 005B,1194,Mid Suffolk
+E01030039,Mid Suffolk 002A,1449,Mid Suffolk
+E01030040,Mid Suffolk 004A,1303,Mid Suffolk
+E01030041,Mid Suffolk 011A,2366,Mid Suffolk
+E01030042,Mid Suffolk 012A,1781,Mid Suffolk
+E01030043,Mid Suffolk 011B,2645,Mid Suffolk
+E01030044,Mid Suffolk 012B,1362,Mid Suffolk
+E01030045,Mid Suffolk 012C,1727,Mid Suffolk
+E01030046,Mid Suffolk 012D,1723,Mid Suffolk
+E01030047,Mid Suffolk 012E,1212,Mid Suffolk
+E01030048,Mid Suffolk 007A,2477,Mid Suffolk
+E01030049,Mid Suffolk 004B,1945,Mid Suffolk
+E01030050,Mid Suffolk 004C,2504,Mid Suffolk
+E01030051,Mid Suffolk 006A,2014,Mid Suffolk
+E01030052,Mid Suffolk 001A,2277,Mid Suffolk
+E01030053,Mid Suffolk 003A,2309,Mid Suffolk
+E01030054,Mid Suffolk 002B,1432,Mid Suffolk
+E01030055,Mid Suffolk 002C,1534,Mid Suffolk
+E01030056,Mid Suffolk 006B,2404,Mid Suffolk
+E01030057,Mid Suffolk 007B,2321,Mid Suffolk
+E01030058,Mid Suffolk 001B,2125,Mid Suffolk
+E01030059,Mid Suffolk 005C,2399,Mid Suffolk
+E01030060,Mid Suffolk 010A,1587,Mid Suffolk
+E01030061,Mid Suffolk 011C,1704,Mid Suffolk
+E01030062,Mid Suffolk 011D,1485,Mid Suffolk
+E01030063,Mid Suffolk 009A,2821,Mid Suffolk
+E01030064,Mid Suffolk 001C,2454,Mid Suffolk
+E01030065,Mid Suffolk 006C,2271,Mid Suffolk
+E01030066,Mid Suffolk 002D,1639,Mid Suffolk
+E01030067,Mid Suffolk 002E,1298,Mid Suffolk
+E01030068,Mid Suffolk 002F,1828,Mid Suffolk
+E01030069,Mid Suffolk 009B,1532,Mid Suffolk
+E01030070,Mid Suffolk 011E,2046,Mid Suffolk
+E01030071,Mid Suffolk 010B,1512,Mid Suffolk
+E01030072,Mid Suffolk 009C,1677,Mid Suffolk
+E01030073,Mid Suffolk 008A,1572,Mid Suffolk
+E01030075,Mid Suffolk 009D,2135,Mid Suffolk
+E01030076,Mid Suffolk 010D,1666,Mid Suffolk
+E01030077,Mid Suffolk 008B,1559,Mid Suffolk
+E01030078,Mid Suffolk 010E,1590,Mid Suffolk
+E01030079,Mid Suffolk 008C,1478,Mid Suffolk
+E01030080,Mid Suffolk 008D,1651,Mid Suffolk
+E01030081,Mid Suffolk 005D,2708,Mid Suffolk
+E01030083,Mid Suffolk 007C,2331,Mid Suffolk
+E01030084,Mid Suffolk 004D,2049,Mid Suffolk
+E01030085,Mid Suffolk 004E,1627,Mid Suffolk
+E01030086,Mid Suffolk 006D,1207,Mid Suffolk
+E01030087,Mid Suffolk 007D,1325,Mid Suffolk
+E01030088,Mid Suffolk 001D,1229,Mid Suffolk
+E01030089,Mid Suffolk 006E,2191,Mid Suffolk
+E01030090,Mid Suffolk 003C,2490,Mid Suffolk
+E01033316,Mid Suffolk 010F,2016,Mid Suffolk
+E01033317,Mid Suffolk 010G,1783,Mid Suffolk
+E01033319,Mid Suffolk 010H,2735,Mid Suffolk
+E01034570,Mid Suffolk 003D,1731,Mid Suffolk
+E01034571,Mid Suffolk 003E,1085,Mid Suffolk
+E01030152,East Suffolk 019A,1994,East Suffolk
+E01030153,East Suffolk 019B,1177,East Suffolk
+E01030154,East Suffolk 017A,2208,East Suffolk
+E01030155,East Suffolk 022A,2024,East Suffolk
+E01030158,East Suffolk 028A,1569,East Suffolk
+E01030159,East Suffolk 028B,1456,East Suffolk
+E01030160,East Suffolk 029A,1610,East Suffolk
+E01030161,East Suffolk 029B,1724,East Suffolk
+E01030162,East Suffolk 030A,1525,East Suffolk
+E01030163,East Suffolk 030B,1790,East Suffolk
+E01030164,East Suffolk 028C,1520,East Suffolk
+E01030165,East Suffolk 030C,1692,East Suffolk
+E01030166,East Suffolk 028D,1378,East Suffolk
+E01030167,East Suffolk 030D,1350,East Suffolk
+E01030168,East Suffolk 029C,1425,East Suffolk
+E01030169,East Suffolk 029D,1656,East Suffolk
+E01030170,East Suffolk 029E,1669,East Suffolk
+E01030171,East Suffolk 027A,1834,East Suffolk
+E01030172,East Suffolk 017B,2180,East Suffolk
+E01030173,East Suffolk 017C,2289,East Suffolk
+E01030174,East Suffolk 017D,1416,East Suffolk
+E01030175,East Suffolk 021A,2334,East Suffolk
+E01030176,East Suffolk 017E,2057,East Suffolk
+E01030179,East Suffolk 024A,2779,East Suffolk
+E01030180,East Suffolk 024B,1389,East Suffolk
+E01030181,East Suffolk 025A,1992,East Suffolk
+E01030183,East Suffolk 024C,1881,East Suffolk
+E01030184,East Suffolk 024D,1697,East Suffolk
+E01030185,East Suffolk 022B,1994,East Suffolk
+E01030186,East Suffolk 018A,1687,East Suffolk
+E01030187,East Suffolk 019C,1678,East Suffolk
+E01030188,East Suffolk 019D,1664,East Suffolk
+E01030189,East Suffolk 019E,1678,East Suffolk
+E01030190,East Suffolk 025B,2414,East Suffolk
+E01030191,East Suffolk 025C,1483,East Suffolk
+E01030192,East Suffolk 025D,1333,East Suffolk
+E01030193,East Suffolk 020A,2063,East Suffolk
+E01030194,East Suffolk 020B,1819,East Suffolk
+E01030195,East Suffolk 020C,1620,East Suffolk
+E01030196,East Suffolk 026A,1576,East Suffolk
+E01030197,East Suffolk 026B,1845,East Suffolk
+E01030198,East Suffolk 025E,1358,East Suffolk
+E01030199,East Suffolk 023A,1742,East Suffolk
+E01030200,East Suffolk 021B,2329,East Suffolk
+E01030201,East Suffolk 016A,2134,East Suffolk
+E01030203,East Suffolk 022C,2007,East Suffolk
+E01030204,East Suffolk 026C,1944,East Suffolk
+E01030205,East Suffolk 026D,1277,East Suffolk
+E01030206,East Suffolk 026E,1461,East Suffolk
+E01030207,East Suffolk 024E,1592,East Suffolk
+E01030208,East Suffolk 018B,1295,East Suffolk
+E01030209,East Suffolk 018C,2380,East Suffolk
+E01030210,East Suffolk 018D,2507,East Suffolk
+E01030211,East Suffolk 022D,1840,East Suffolk
+E01030212,East Suffolk 018E,2015,East Suffolk
+E01030214,East Suffolk 027B,1190,East Suffolk
+E01030215,East Suffolk 027C,1713,East Suffolk
+E01030216,East Suffolk 027D,1469,East Suffolk
+E01030217,East Suffolk 027E,1461,East Suffolk
+E01030218,East Suffolk 027F,1524,East Suffolk
+E01030219,East Suffolk 016B,2006,East Suffolk
+E01030220,East Suffolk 020D,2210,East Suffolk
+E01030221,East Suffolk 021C,2187,East Suffolk
+E01030222,East Suffolk 016C,2136,East Suffolk
+E01030223,East Suffolk 010A,1810,East Suffolk
+E01030224,East Suffolk 010B,1599,East Suffolk
+E01030225,East Suffolk 010C,1661,East Suffolk
+E01030226,East Suffolk 011A,1872,East Suffolk
+E01030227,East Suffolk 010D,1486,East Suffolk
+E01030228,East Suffolk 010E,1708,East Suffolk
+E01030229,East Suffolk 015A,2150,East Suffolk
+E01030230,East Suffolk 013A,1788,East Suffolk
+E01030231,East Suffolk 013B,1541,East Suffolk
+E01030232,East Suffolk 013C,1671,East Suffolk
+E01030233,East Suffolk 007A,1479,East Suffolk
+E01030234,East Suffolk 008A,1563,East Suffolk
+E01030235,East Suffolk 007B,1503,East Suffolk
+E01030236,East Suffolk 008B,1910,East Suffolk
+E01030237,East Suffolk 008C,2940,East Suffolk
+E01030238,East Suffolk 008D,1780,East Suffolk
+E01030239,East Suffolk 012A,1869,East Suffolk
+E01030240,East Suffolk 001A,1597,East Suffolk
+E01030241,East Suffolk 001B,1459,East Suffolk
+E01030242,East Suffolk 001C,1386,East Suffolk
+E01030243,East Suffolk 015B,1504,East Suffolk
+E01030244,East Suffolk 015C,1846,East Suffolk
+E01030245,East Suffolk 015D,1602,East Suffolk
+E01030246,East Suffolk 004A,1375,East Suffolk
+E01030247,East Suffolk 006A,1861,East Suffolk
+E01030248,East Suffolk 004B,1506,East Suffolk
+E01030249,East Suffolk 004C,1799,East Suffolk
+E01030250,East Suffolk 004D,2019,East Suffolk
+E01030251,East Suffolk 012B,1505,East Suffolk
+E01030252,East Suffolk 012C,1735,East Suffolk
+E01030253,East Suffolk 012D,1795,East Suffolk
+E01030254,East Suffolk 006B,1397,East Suffolk
+E01030255,East Suffolk 005A,1328,East Suffolk
+E01030256,East Suffolk 006C,1521,East Suffolk
+E01030257,East Suffolk 009A,1491,East Suffolk
+E01030258,East Suffolk 006D,1606,East Suffolk
+E01030259,East Suffolk 001D,1126,East Suffolk
+E01030260,East Suffolk 001E,1025,East Suffolk
+E01030261,East Suffolk 002A,1486,East Suffolk
+E01030262,East Suffolk 002B,1256,East Suffolk
+E01030263,East Suffolk 005B,1532,East Suffolk
+E01030264,East Suffolk 004E,1485,East Suffolk
+E01030265,East Suffolk 004F,1482,East Suffolk
+E01030266,East Suffolk 003A,1622,East Suffolk
+E01030267,East Suffolk 003B,2445,East Suffolk
+E01030268,East Suffolk 007C,1324,East Suffolk
+E01030269,East Suffolk 007D,1678,East Suffolk
+E01030270,East Suffolk 005C,1516,East Suffolk
+E01030271,East Suffolk 003C,1425,East Suffolk
+E01030272,East Suffolk 012E,1549,East Suffolk
+E01030273,East Suffolk 012F,1505,East Suffolk
+E01030274,East Suffolk 009B,1194,East Suffolk
+E01030275,East Suffolk 009C,1112,East Suffolk
+E01030276,East Suffolk 006E,1159,East Suffolk
+E01030277,East Suffolk 002C,1141,East Suffolk
+E01030278,East Suffolk 003D,1537,East Suffolk
+E01030279,East Suffolk 002D,1368,East Suffolk
+E01030280,East Suffolk 003E,1335,East Suffolk
+E01030281,East Suffolk 002E,2616,East Suffolk
+E01030283,East Suffolk 014A,1320,East Suffolk
+E01030285,East Suffolk 013D,2242,East Suffolk
+E01030286,East Suffolk 011B,2159,East Suffolk
+E01030287,East Suffolk 009D,1373,East Suffolk
+E01030288,East Suffolk 007E,1418,East Suffolk
+E01030289,East Suffolk 005D,1495,East Suffolk
+E01030290,East Suffolk 005E,1454,East Suffolk
+E01030291,East Suffolk 009E,1507,East Suffolk
+E01030292,East Suffolk 011C,1444,East Suffolk
+E01030293,East Suffolk 011D,1623,East Suffolk
+E01030294,East Suffolk 011E,1410,East Suffolk
+E01030295,East Suffolk 014B,2377,East Suffolk
+E01033442,East Suffolk 025F,1604,East Suffolk
+E01033443,East Suffolk 023B,1644,East Suffolk
+E01033444,East Suffolk 025G,1501,East Suffolk
+E01033445,East Suffolk 023C,1759,East Suffolk
+E01033446,East Suffolk 023D,2835,East Suffolk
+E01033447,East Suffolk 025H,1483,East Suffolk
+E01033448,East Suffolk 023E,1308,East Suffolk
+E01033449,East Suffolk 023F,1869,East Suffolk
+E01033450,East Suffolk 028E,2277,East Suffolk
+E01035154,East Suffolk 014C,2207,East Suffolk
+E01029925,West Suffolk 015A,1824,West Suffolk
+E01029926,West Suffolk 002A,1661,West Suffolk
+E01029927,West Suffolk 002B,2514,West Suffolk
+E01029928,West Suffolk 002C,1833,West Suffolk
+E01029929,West Suffolk 002D,2202,West Suffolk
+E01029930,West Suffolk 002E,1611,West Suffolk
+E01029937,West Suffolk 008A,2370,West Suffolk
+E01029938,West Suffolk 004A,1508,West Suffolk
+E01029939,West Suffolk 004B,1613,West Suffolk
+E01029940,West Suffolk 004C,1340,West Suffolk
+E01029941,West Suffolk 007A,1831,West Suffolk
+E01029942,West Suffolk 001A,1529,West Suffolk
+E01029944,West Suffolk 001B,1672,West Suffolk
+E01029945,West Suffolk 003A,2446,West Suffolk
+E01029946,West Suffolk 004D,2139,West Suffolk
+E01029947,West Suffolk 004E,2297,West Suffolk
+E01029949,West Suffolk 015B,1524,West Suffolk
+E01029950,West Suffolk 015C,1830,West Suffolk
+E01029951,West Suffolk 015D,1375,West Suffolk
+E01029952,West Suffolk 015E,1216,West Suffolk
+E01029953,West Suffolk 008B,1377,West Suffolk
+E01029955,West Suffolk 008C,1788,West Suffolk
+E01029956,West Suffolk 008D,1507,West Suffolk
+E01029957,West Suffolk 007B,2334,West Suffolk
+E01030091,West Suffolk 011A,1864,West Suffolk
+E01030092,West Suffolk 014A,1449,West Suffolk
+E01030093,West Suffolk 011B,1650,West Suffolk
+E01030094,West Suffolk 006A,1448,West Suffolk
+E01030095,West Suffolk 005A,1221,West Suffolk
+E01030096,West Suffolk 005B,1457,West Suffolk
+E01030097,West Suffolk 005C,1271,West Suffolk
+E01030098,West Suffolk 010A,2707,West Suffolk
+E01030099,West Suffolk 017A,1932,West Suffolk
+E01030100,West Suffolk 010B,2217,West Suffolk
+E01030101,West Suffolk 017B,2282,West Suffolk
+E01030104,West Suffolk 016A,2668,West Suffolk
+E01030105,West Suffolk 020A,1879,West Suffolk
+E01030106,West Suffolk 020B,2385,West Suffolk
+E01030107,West Suffolk 020C,1609,West Suffolk
+E01030108,West Suffolk 020D,1863,West Suffolk
+E01030109,West Suffolk 019A,1877,West Suffolk
+E01030110,West Suffolk 019B,2848,West Suffolk
+E01030111,West Suffolk 019C,1355,West Suffolk
+E01030112,West Suffolk 019D,1817,West Suffolk
+E01030113,West Suffolk 020E,2193,West Suffolk
+E01030114,West Suffolk 020F,1508,West Suffolk
+E01030115,West Suffolk 021A,2363,West Suffolk
+E01030116,West Suffolk 021B,2228,West Suffolk
+E01030117,West Suffolk 021C,1503,West Suffolk
+E01030118,West Suffolk 021D,1505,West Suffolk
+E01030119,West Suffolk 010C,2291,West Suffolk
+E01030121,West Suffolk 006B,2283,West Suffolk
+E01030122,West Suffolk 018A,2175,West Suffolk
+E01030123,West Suffolk 014B,1680,West Suffolk
+E01030124,West Suffolk 014C,1574,West Suffolk
+E01030125,West Suffolk 014D,1404,West Suffolk
+E01030127,West Suffolk 012A,1115,West Suffolk
+E01030128,West Suffolk 012B,1305,West Suffolk
+E01030129,West Suffolk 012C,1278,West Suffolk
+E01030130,West Suffolk 009A,1373,West Suffolk
+E01030131,West Suffolk 009B,1291,West Suffolk
+E01030132,West Suffolk 006C,1536,West Suffolk
+E01030133,West Suffolk 006D,1415,West Suffolk
+E01030134,West Suffolk 010D,1259,West Suffolk
+E01030135,West Suffolk 010E,1436,West Suffolk
+E01030137,West Suffolk 011C,1645,West Suffolk
+E01030138,West Suffolk 016B,2588,West Suffolk
+E01030139,West Suffolk 009C,1668,West Suffolk
+E01030140,West Suffolk 009D,1191,West Suffolk
+E01030141,West Suffolk 009E,1481,West Suffolk
+E01030142,West Suffolk 013A,1591,West Suffolk
+E01030143,West Suffolk 013B,1391,West Suffolk
+E01030144,West Suffolk 013C,1229,West Suffolk
+E01030145,West Suffolk 005D,1403,West Suffolk
+E01030146,West Suffolk 005E,1521,West Suffolk
+E01030147,West Suffolk 013D,1454,West Suffolk
+E01030148,West Suffolk 014E,1190,West Suffolk
+E01030149,West Suffolk 014F,1473,West Suffolk
+E01030150,West Suffolk 017C,2286,West Suffolk
+E01030151,West Suffolk 018B,2669,West Suffolk
+E01032523,West Suffolk 003B,2278,West Suffolk
+E01032524,West Suffolk 003C,1234,West Suffolk
+E01032526,West Suffolk 003D,1889,West Suffolk
+E01032612,West Suffolk 015F,2054,West Suffolk
+E01033043,West Suffolk 011D,1185,West Suffolk
+E01033044,West Suffolk 012D,1449,West Suffolk
+E01033045,West Suffolk 012E,1266,West Suffolk
+E01033046,West Suffolk 011E,1103,West Suffolk
+E01033047,West Suffolk 011F,1107,West Suffolk
+E01033048,West Suffolk 013E,1407,West Suffolk
+E01033049,West Suffolk 013F,1129,West Suffolk
+E01033050,West Suffolk 012F,1205,West Suffolk
+E01033452,West Suffolk 007C,1721,West Suffolk
+E01033454,West Suffolk 007D,1769,West Suffolk
+E01034561,West Suffolk 001C,1602,West Suffolk
+E01034562,West Suffolk 001D,2712,West Suffolk
+E01034563,West Suffolk 001E,1299,West Suffolk
+E01034564,West Suffolk 003E,1234,West Suffolk
+E01034565,West Suffolk 003F,1419,West Suffolk
+E01034566,West Suffolk 007E,2019,West Suffolk
+E01034567,West Suffolk 007F,1185,West Suffolk
+E01034568,West Suffolk 008E,1281,West Suffolk
+E01034569,West Suffolk 008F,1235,West Suffolk
+E01034572,West Suffolk 016C,1639,West Suffolk
+E01034573,West Suffolk 016D,2028,West Suffolk
+E01034574,West Suffolk 018C,2153,West Suffolk
+E01034575,West Suffolk 018D,1095,West Suffolk
